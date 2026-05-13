@@ -1,1 +1,2 @@
-print("hello git update")
+def farewell():
+    print("Goodbye from main branch")
