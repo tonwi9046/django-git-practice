@@ -1,4 +1,4 @@
---pycache--/
-*.phyc
+__pycache__/
+*.pyc
 .env
-node-modules/
+

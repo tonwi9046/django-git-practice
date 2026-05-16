@@ -1,2 +1,8 @@
+def greet():
+    print("Hello from feature branch")
+
 def farewell():
-    print("Goodbye from main branch")
+    print("Goodbye!")
+
+greet()
+farewell()
